@@ -1,0 +1,59 @@
+<div class="container">
+        <div class="row">
+            <section class="row-2">
+                <h1>hello</h1>
+            </section>
+            <div class="row-10">
+                <div class="background">
+                    <div class="nav" style="border: 2px solid blanchedalmond;">
+
+                        <section class="logo">
+                            GOUTAM SINGH MUNDA
+                        </section>
+
+                        <!--class="col-md-1" -->
+                        <section class="button1">
+                            <button href="#" style="color: black;"> Contact Me</button>
+                        </section>
+                    </div>
+                    <h1> Welcome to my portfolio </h1>
+
+                    <hr style="width:200px; font-size: larger;">
+                    <!-- <button class="submit" style="border-radius: 30%;">submit</button> -->
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda deserunt sit, laborum deleniti
+                    veniam
+                    tempore repellat expedita accusamus! Autem quod perferendis aperiam animi quis culpa debitis
+                    blanditiis
+                    ab rem
+                    <!-- <div data-aos="fade-up">
+    
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur eos totam, officia necessitatibus
+                excepturi molestiae!
+            </div>
+            
+                    <div class="name" data-aos="fade-right">
+                        <pre>
+        Hi, 
+        My Name is 
+        GOUTAM SINGH MUNDA
+        I LIVE IN RANCHI..
+                </pre>
+                    </div>
+
+                    <div class="aboutme" data-aos="flip-left">
+                        I love codding
+                        I love to travel.
+                    </div>
+
+                    <!-- div.hello2 -->
+                    <div class="hello">
+                        Eos officia dicta veniam ab aperiam necessitatibus voluptatibus praesentium facilis quo autem
+                        cupiditate
+                        dolor, ipsum blanditiis modi explicabo? Culpa asperiores, facere architecto voluptates ad saepe
+                        assumenda
+                        sint dolorum! Soluta, laborum?
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
